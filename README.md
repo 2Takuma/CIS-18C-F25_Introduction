@@ -1,3 +1,3 @@
-# Keanu Arao \n
-# Prof. Oconnor \n
+# Keanu Arao
+# Prof. Oconnor
 # CIS 18C 37655
