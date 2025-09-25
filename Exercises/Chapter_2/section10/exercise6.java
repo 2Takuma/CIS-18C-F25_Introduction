@@ -1,5 +1,3 @@
-package School.CIS_18C.Exercises.Chapter_2.section10;
-
 import java.util.ArrayList;
 
 public class exercise6 { // Devise an experiment to verify that the Arraylist indexOf method is O(n)
@@ -28,4 +26,5 @@ public class exercise6 { // Devise an experiment to verify that the Arraylist in
     }
 
 }
+
 
