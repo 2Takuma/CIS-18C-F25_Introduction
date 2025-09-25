@@ -1,4 +1,3 @@
-package School.CIS_18C.Exercises.Chapter_2.section10;
 import java.util.HashMap;
 
 public class exercise7 { // Not the greatest experiment but it technically works (don't want every key to be the same)
@@ -56,3 +55,4 @@ public class exercise7 { // Not the greatest experiment but it technically works
 
     }
 } // Aftr looking at the time it takes to put and get values from the hashmap, they generally run at the same time not matter which item O(1)
+
