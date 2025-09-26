@@ -26,7 +26,8 @@ public class exercise9 {
 } // Sort the list first then search
 
 
-// Exercise 10 inclusions: Can you improve the algorithm from the previous problem to be linear? Explain.
+// Exercise 10 inclusion: Can you improve the algorithm from the previous problem to be linear? Explain.
 /* Yes. We can improve the algorithm from the previous problem by using a different selection method
  */
+
 
