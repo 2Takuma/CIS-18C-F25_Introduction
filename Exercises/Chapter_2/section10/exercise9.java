@@ -1,4 +1,3 @@
-package School.CIS_18C.Exercises.Chapter_2.section10;
 //Given a list of numbers in random order, write an algorithm that works in O(nlog(n)) to find the kth smallest number in the list.
 
 import java.util.ArrayList;
@@ -30,3 +29,4 @@ public class exercise9 {
 // Exercise 10 inclusions: Can you improve the algorithm from the previous problem to be linear? Explain.
 /* Yes. We can improve the algorithm from the previous problem by using a different selection method
  */
+
