@@ -1,4 +1,3 @@
-package School.CIS_18C.Exercises.Chapter_2.section10;
 // Devise an experiment that compares the performance of the remove method on ArrayLists and HashMaps.
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -61,3 +60,4 @@ public class exercise8 {
         System.out.println("Time for Hashmap removal: " + time);
     }
 }
+
