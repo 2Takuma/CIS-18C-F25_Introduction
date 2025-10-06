@@ -1,5 +1,3 @@
-package School.CIS_18C.Exercises.Chapter_3.Lists;
-
 class OrderedList<T extends Comparable<T>> extends UnorderedList<T> {
 
     // No extra properties in this class; they are inherited from UnorderedList
@@ -54,4 +52,5 @@ class OrderedList<T extends Comparable<T>> extends UnorderedList<T> {
         System.out.println("Is 300 in the list? " + myList.search(300));
     }
     
+
 }
