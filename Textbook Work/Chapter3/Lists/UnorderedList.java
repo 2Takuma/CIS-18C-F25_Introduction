@@ -1,5 +1,3 @@
-package School.CIS_18C.Exercises.Chapter_3.Lists;
-
 class Node<T> { // Node Class
 
     private T data;
@@ -167,3 +165,4 @@ class UnorderedList<T> { // Unordered List Class
     }
 
 }
+
