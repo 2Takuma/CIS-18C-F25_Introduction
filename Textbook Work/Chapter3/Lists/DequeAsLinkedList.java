@@ -1,5 +1,3 @@
-package School.CIS_18C.Exercises.Chapter_3.Lists;
-
 import java.util.NoSuchElementException;
 
 class Node<T> { // Node Class
@@ -148,3 +146,4 @@ class DequeAsLinkedList<T> {
         System.out.println("Size: " + myDeque.size());
     }
 }
+
