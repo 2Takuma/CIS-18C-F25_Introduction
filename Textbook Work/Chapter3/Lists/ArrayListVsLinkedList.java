@@ -1,5 +1,3 @@
-package School.CIS_18C.Exercises.Chapter_3.Lists;
-
 import java.util.ArrayList;
 
 public class ArrayListVsLinkedList {
@@ -25,3 +23,4 @@ public class ArrayListVsLinkedList {
 
     }   // Can add more benchmark stuff
 }
+
